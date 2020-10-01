@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Peace for everyone!
+
 <!--
 **katie-miracle/katie-miracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
